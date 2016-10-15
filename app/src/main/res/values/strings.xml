@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="activity_title">新闻</string>
+    <string name="content_title">新闻内容</string>
+
+    <!-- Drawer Menu -->
+    <string name="share">分享</string>
+    <string name="settings">设置</string>
+
+    <array name="font_size">
+        <item>小</item>
+        <item>标准</item>
+        <item>大</item>
+        <item>超大</item>
+    </array>
+
+    <string name="font_size_title">文字大小</string>
+
+    <string name="change_image">更换头像</string>
+
+    <array name="change_image_way_selection">
+        <item>拍照</item>
+        <item>从相册选择</item>
+    </array>
+
+</resources>
